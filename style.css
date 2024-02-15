@@ -144,7 +144,7 @@ section:not(:nth-child(2)){
     }
     img{
         grid-column: 2/3;
-        width: 400px;
+        width: 100%;
     }
 }
 section:nth-child(2){
@@ -159,7 +159,7 @@ section:nth-child(2){
         margin-left: 15%;
         grid-column: 1/2;
         grid-row: 1/2;
-        width: 400px;
+        width: 100%;
     }
     p{
         max-width: 92%;
