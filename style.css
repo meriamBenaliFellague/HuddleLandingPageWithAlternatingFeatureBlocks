@@ -21,7 +21,7 @@
 body{
     display: grid;
     grid-template-rows: auto auto auto;
-    gap: 60%;
+    gap: 400px;
     position: relative;
     height: 100vh;
     width: 100vw;
